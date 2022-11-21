@@ -58,6 +58,31 @@
 ![Serenity BDD](https://img.shields.io/badge/-serenit%20ybdd-16a67a?style=for-the-badge&logoColor=black)
 ![Cucumber](https://img.shields.io/badge/-cucumber-4bc47b?style=for-the-badge&logoColor=black)
 
+### Installation
+
+#### Method 1: Trough terminal (Maven Should be Installed)
+
+1. Clone the repo
+   ```sh
+   git clone https://github.com/AnjarTiyo/GOREST-API-testing.git
+   ```
+3. Go to project directory
+   ```sh
+   cd GOREST-API-testing
+   ```
+4. run Maven command
+   ```sh
+   mvn clean verify
+   ```
+#### Method 2: Trough Intellij IDEA
+
+1. Create New Project
+2. Select from "versioning control"
+3. Paste https://github.com/AnjarTiyo/GOREST-API-testing.git
+4. Select JDK 1.8
+5. Select maven
+6. Click OK
+
 ## Contacts
 
 - [Ari Febri Anto](https://github.com/a-febri)
